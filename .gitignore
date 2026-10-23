@@ -1,0 +1,16 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+*.VC.db
+*.VC.opendb
+
+# Build artifacts
+*.pdb
+*.obj
+*.log
+
+# OS junk
+Thumbs.db
